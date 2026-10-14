@@ -1,4 +1,4 @@
-const CACHE_NAME = 'absensi-shalat-v1';
+const CACHE_NAME = 'absensi-shalat-v2';
 const assetsToCache = [
   './index.html',
   'https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js',
